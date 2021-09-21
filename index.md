@@ -1,7 +1,7 @@
 ---
 title: "Holt Winters Model"
 author: 'Data Scientist: Paolo Hilado'
-date: "9/21/2021"
+date: "21/09/2021"
 output: html_document
 ---
 
